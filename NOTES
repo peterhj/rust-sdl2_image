@@ -1,0 +1,3 @@
+Building:
+
+    ../configure --prefix=`pwd` --enable-static=yes --with-pic=yes --with-sdl-prefix=`pwd`/../../../rust-sdl2/SDL2-2.0.4/build
